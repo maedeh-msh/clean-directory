@@ -1,0 +1,18 @@
+{
+    ".png": "image",
+    ".jpg": "image",
+    ".docx": "document",
+    ".pdf": "document",
+    ".xlsx": "document",
+    ".mp4": "video",
+    ".m4a": "video",
+    ".mp3": "music",
+    ".MP3": "music",
+    ".zip": "compressd",
+    ".rar": "compressd",
+    ".exe": "apps",
+    ".bmp": "image",
+    ".cpp": "image",
+    ".pptx": "document",
+    ".HEIC": "image"
+}
